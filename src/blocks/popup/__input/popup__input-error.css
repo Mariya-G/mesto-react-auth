@@ -1,0 +1,20 @@
+.popup__input-error {
+  opacity: 0;
+  width: calc(100% - 72px);
+  display: flex;
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #FF0000;
+  min-height: 30px;
+  transform: translateY(6px);
+}
+
+@media screen and (max-width: 320px) {
+.popup__input-error {
+    width: calc(100% - 44px);
+    min-height: 33px;
+    transform: translateY(6px);
+  }
+}
