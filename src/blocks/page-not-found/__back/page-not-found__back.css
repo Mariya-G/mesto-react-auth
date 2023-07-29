@@ -1,0 +1,12 @@
+.page-not-found__back {
+  color: #fff;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 40px 0 0 0;
+  text-decoration: none;
+}
+
+.page-not-found__back:hover{
+  opacity: .6;
+}

@@ -1,0 +1,22 @@
+.form-auth__input {
+  width: 358px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 26px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 2;
+  color: #fff;
+}
+
+.form-auth__input::placeholder{
+  color: #ccc;
+  font-size: 14px;
+}
+
+.form-auth__input:focus {
+  outline: none;
+}

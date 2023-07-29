@@ -1,0 +1,8 @@
+.page-not-found__title {
+  font-size: 50px;
+  color: red;
+  text-align: center;
+  font-weight: 900;
+  line-height: 1;
+  margin: 100px 0 0 0;
+}

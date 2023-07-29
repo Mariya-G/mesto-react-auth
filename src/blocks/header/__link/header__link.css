@@ -1,0 +1,13 @@
+.header__link {
+  background-color: transparent;
+  color: #a9a9a9;
+  border:  none;
+  padding-left: 24px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.header__link:hover {
+  opacity: .6;
+}
